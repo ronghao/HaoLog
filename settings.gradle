@@ -1,0 +1,3 @@
+include ':haolog'
+include ':app'
+rootProject.name = "HaoLog"
