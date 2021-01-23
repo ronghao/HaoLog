@@ -18,5 +18,5 @@ allprojects {
 在项目build.gradle中添加 ![](https://jitpack.io/v/ronghao/HaoLog.svg)
 ```
 dependencies {
-    compile 'com.github.ronghao:DialogFactory:1.0.0'
+    compile 'com.github.ronghao:HaoLog:1.0.0'
 }
